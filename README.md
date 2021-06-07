@@ -2,4 +2,6 @@
 
 <p align="center" >Hello , I'm Aadil Mugal <img src="img/skill.gif" width=70px></h1>
 
-<h3 align="center"><i>A Passionate Programmer from India</i></h3>
+<h3 align="center"><i>A Passionate Programmer from India</i></h3><br><br>
+
+
