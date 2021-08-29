@@ -14,11 +14,11 @@
   <h1 align="center" >
     Hello , I'm Aadil Mugal<br>
     <h3 align = "center"><i>A Passionate Programmer from India</i></h3><br>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadilmughal786&label=Profile%20views&color=0e75b6&style=flat" alt="aadilmughal786" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadilmughal786&label=Aadil's Profile%20views&color=0e75b6&style=flat" alt="aadilmughal786" /> </p>
   </h1>
 </p><br><br><br>
 
-<p align = "center">
+<p align = "left">
   <a href="#" target="_blank"><img  src="https://img.shields.io/badge/Python-%232B2728.svg?&style=for-the-badge&logo=python&logoColor=white" /></a> 
   <a href="#" target="_blank"><img  src="https://img.shields.io/badge/ Language-%23222222.svg?&style=for-the-badge&logo=c&logoColor=white" /></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/C Plus Plus-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
