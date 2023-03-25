@@ -32,6 +32,9 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=" /></a>
 </p>
 
+
+<a href="https://app.daily.dev/aadil786"><img src="https://api.daily.dev/devcards/617dfb044e774927a931e75dd00becac.png?r=1g8" width="400" alt="Aadil Mugal's Dev Card"/></a>
+
 <p align = "left"><img src = "https://github-profile-trophy.vercel.app/?username=aadilmughal786"></p>
 
 <p align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=aadilmughal786&show_icons=true"></P>
