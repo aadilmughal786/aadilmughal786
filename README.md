@@ -33,7 +33,7 @@
 </p>
 
 
-<a href="https://app.daily.dev/aadil786"><img src="https://api.daily.dev/devcards/617dfb044e774927a931e75dd00becac.png?r=1g8" width="400" alt="Aadil Mugal's Dev Card"/></a>
+<a href="https://app.daily.dev/aadil786"><img src="https://api.daily.dev/devcards/617dfb044e774927a931e75dd00becac.png?r=1g8" width="200" alt="Aadil Mugal's Dev Card"/></a>
 
 <p align = "left"><img src = "https://github-profile-trophy.vercel.app/?username=aadilmughal786"></p>
 
