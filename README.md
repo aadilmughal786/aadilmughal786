@@ -33,7 +33,7 @@
 </p>
 
 
-![Snake animation](https://github.com/aadilmughal786/aadilmughal786/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aadilmughal786/aadilmughal786/blob/snake/github-contribution-grid-snake.svg)
 
 
 <a href="https://app.daily.dev/aadil786"><img src="https://api.daily.dev/devcards/617dfb044e774927a931e75dd00becac.png?r=1g8" width="200" alt="Aadil Mugal's Dev Card"/></a>
