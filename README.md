@@ -18,7 +18,7 @@
 </p>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=435&lines=I+am+a+web+developer.;I+love+Linux.;I+like+to+buid+stuff.;I+am+a+competitive+programmer.;I+am+a+UI%2FUX+designer.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&width=435&lines=I+am+a+web+developer.;I+love+Linux.;I+like+to+buid+stuff.;I+am+a+competitive+programmer.;I+am+a+UI%2FUX+designer.)](https://git.io/typing-svg) -->
 
 <br><br><br>
 
