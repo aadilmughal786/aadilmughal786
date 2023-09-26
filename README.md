@@ -39,9 +39,6 @@
 
 <a href="https://app.daily.dev/aadil786"><img src="https://api.daily.dev/devcards/617dfb044e774927a931e75dd00becac.png?r=1g8" width="200" alt="Aadil Mugal's Dev Card"/></a>
 
-<p align = "left"><img src = "https://github-profile-trophy.vercel.app/?username=aadilmughal786"></p>
-
 <p align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=aadilmughal786&show_icons=true"></P>
-<p align = "left"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=aadilmughal786&" alt="aadilmughal786"></p>
 
 <p align = "left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmughal786&langs_count=8"></p>
